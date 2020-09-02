@@ -23,7 +23,6 @@
         <module>querying-a-mysql-database</module>
         <module>retry-mechanism-example</module>
         <module>salesforce-data-retrieval</module>
-        <module>salesforce-to-MySQL-DB-using-Batch-Processing</module>
         <module>scatter-gather-flow-control</module>
         <module>testing-apikit-with-munit</module>
         <module>track-a-custom-business-event</module>
@@ -33,7 +32,10 @@
 
         <!-- After raising connector version to 10.0.0 fails -->
         <module>import-leads-into-salesforce</module>
-        
+
+        <module>salesforce-to-MySQL-DB-using-Batch-Processing</module>
+
+
         <!-- proxying-a-soap-api is currently unavaliable due to issue with external Tshirt service -->
         <!-- <module>proxying-a-soap-api</module -->
         
