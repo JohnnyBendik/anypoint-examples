@@ -26,7 +26,6 @@
         <module>scatter-gather-flow-control</module>
         <module>testing-apikit-with-munit</module>
         <module>track-a-custom-business-event</module>
-        <module>salesforce-data-synchronization-using-watermarking-and-batch-processing</module>
         <module>hello-world</module>
         <module>dataweave-with-flowreflookup</module>
 
@@ -34,6 +33,8 @@
         <module>import-leads-into-salesforce</module>
 
         <module>salesforce-to-MySQL-DB-using-Batch-Processing</module>
+        <module>salesforce-data-synchronization-using-watermarking-and-batch-processing</module>
+
 
 
         <!-- proxying-a-soap-api is currently unavaliable due to issue with external Tshirt service -->
