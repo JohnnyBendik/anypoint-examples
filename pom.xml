@@ -32,7 +32,7 @@
         <!-- <module>import-leads-into-salesforce</module> -->
 
         <!-- <module>salesforce-to-MySQL-DB-using-Batch-Processing</module> -->
-        <module>salesforce-data-synchronization-using-watermarking-and-batch-processing</module>
+        <!-- <module>salesforce-data-synchronization-using-watermarking-and-batch-processing</module> -->
         <module>dataweave-with-flowreflookup</module> 
 
         <!-- proxying-a-soap-api is currently unavaliable due to issue with external Tshirt service -->
