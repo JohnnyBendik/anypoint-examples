@@ -25,6 +25,10 @@
                             <groupId>mysql</groupId>
                             <artifactId>mysql-connector-java</artifactId>
                         </sharedLibrary>
+                    	<sharedLibrary>
+                            <groupId>org.codehaus.groovy</groupId>
+                            <artifactId>groovy-all</artifactId>
+                        </sharedLibrary>
                     </sharedLibraries>
                 </configuration>
             </plugin>
@@ -104,6 +108,12 @@
             <version>${munit.version}</version>
             <classifier>mule-plugin</classifier>
             <scope>test</scope>
+        </dependency>
+    	<dependency>
+            <groupId>org.codehaus.groovy</groupId>
+            <artifactId>groovy-all</artifactId>
+            <version>2.4.16</version>
+            <classifier>indy</classifier>
         </dependency>
     </dependencies>
     
