@@ -7,7 +7,6 @@
     <version>2.1.5-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-    <!--
         <module>content-based-routing</module>
         <module>dataweave-2-basics</module>
         <module>exposing-a-restful-resource-using-the-HTTP-connector</module>
@@ -27,13 +26,13 @@
         <module>scatter-gather-flow-control</module>
         <module>testing-apikit-with-munit</module>
         <module>track-a-custom-business-event</module>
-        <module>hello-world</module> -->
+        <module>hello-world</module>
         <!-- After raising connector version to 10.0.0 fails -->
-        <!-- <module>import-leads-into-salesforce</module> -->
+        <module>import-leads-into-salesforce</module> -->
 
-        <!-- <module>salesforce-to-MySQL-DB-using-Batch-Processing</module> -->
-        <!-- <module>salesforce-data-synchronization-using-watermarking-and-batch-processing</module> -->
-        <!-- <module>dataweave-with-flowreflookup</module> -->
+        <module>salesforce-to-MySQL-DB-using-Batch-Processing</module>
+        <module>salesforce-data-synchronization-using-watermarking-and-batch-processing</module>
+        <module>dataweave-with-flowreflookup</module> 
 
         <!-- proxying-a-soap-api is currently unavaliable due to issue with external Tshirt service -->
         <!-- <module>proxying-a-soap-api</module -->
@@ -42,7 +41,7 @@
         <module>adding-a-new-customer-to-workday-revenue-management</module>
         <module>addition-using-javascript-transformer</module>
         <module>authenticating-salesforce-using-oauth2</module>
-        <module>cache-scope-with-salesforce-contacts</module>
+        <!-- <module>cache-scope-with-salesforce-contacts</module> -->
         <module>extracting-data-from-LDAP-directory</module>
         <module>foreach-processing-and-choice-routing</module>
         <module>filtering-a-message</module>
