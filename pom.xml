@@ -42,12 +42,12 @@
         <module>adding-a-new-customer-to-workday-revenue-management</module>
         <module>addition-using-javascript-transformer</module>
         <module>authenticating-salesforce-using-oauth2</module>
-        <!-- <module>cache-scope-with-salesforce-contacts</module> -->
+        <module>cache-scope-with-salesforce-contacts</module>
         <module>extracting-data-from-LDAP-directory</module>
         <module>foreach-processing-and-choice-routing</module>
         <module>filtering-a-message</module>
         <module>http-multipart-request</module>
-        <module>implementing-a-choice-exception-strategy</module>
+        <!-- <module>implementing-a-choice-exception-strategy</module> -->
         <!-- <module>import-contacts-asynchronously</module> -->
         <module>import-contacts-into-ms-dynamics</module>
         <module>importing-a-CSV-file-into-Mongo-DB</module>
