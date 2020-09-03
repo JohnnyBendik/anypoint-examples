@@ -41,7 +41,7 @@
         <!-- <module>proxying-a-soap-api</module -->
         
         <!-- Modules not fit for regression testing -->
-        <!-- <module>adding-a-new-customer-to-workday-revenue-management</module>
+        <module>adding-a-new-customer-to-workday-revenue-management</module>
         <module>addition-using-javascript-transformer</module>
         <module>authenticating-salesforce-using-oauth2</module>
         <module>cache-scope-with-salesforce-contacts</module>
@@ -64,7 +64,7 @@
         <module>sending-json-data-to-a-amqp-queue</module>
         <module>upload-to-ftp-after-converting-json-to-xml</module>
         <module>using-transactional-scope-in-jms-to-database</module>
-        <module>web-service-consumer</module> -->
+        <module>web-service-consumer</module> 
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
